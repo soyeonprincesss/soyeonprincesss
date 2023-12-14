@@ -2,7 +2,7 @@
 
  <div align=center> 
   
-  # soyeonprincesss's Github🍀</div>
+  # soyeonprincesss's Github🍀
 
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
@@ -21,3 +21,4 @@
 ### soyeonprincess's GitHub stats🐱 <br>
 ![soyeonprincess's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeonprincesss&show_icons=true&theme=buefy) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeonprincesss&layout=compact&theme=buefy)
+</div>
