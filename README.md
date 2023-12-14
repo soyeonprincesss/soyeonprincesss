@@ -13,3 +13,6 @@
 <img src="https://img.shields.io/badge/Anaconda-grey?style=flat&logo=Anaconda&logoColor=8A8A8A"/> 
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
+
+![soyeonprincesss's GitHub stats]https://github-readme-stats.vercel.app/api?
+username=soyeonprincesss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
