@@ -5,7 +5,7 @@
   # soyeonprincesss's Github🍀
 
 <a href="https://instagram.com/0_0__soyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_0__soyeon" height="30" width="40" /></a>
-<a href="https://m.blog.naver.com/soyeon8165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blog.svg" alt="soyeon8165" height="30" width="40" /></a>
+<a href="https://m.blog.naver.com/soyeon8165" target="_blank"><img src="https://img.shields.io/badge/soyeon8165-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=blog&logoColor=white"/></a>
 
 ### 🐱studying🐱
 <p>
