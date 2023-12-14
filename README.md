@@ -11,10 +11,10 @@
 원미고등학교 졸업<br>
 동양미래대학교 인공지능소프트웨어학과 재학
 
-### 🐱SNS🐱
+## 🐱SNS🐱
 <a href="https://instagram.com/0_0__soyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_0__soyeon" height="30" width="40" /></a>
 
-### 🐱studying🐱
+## 🐱studying🐱
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
 <img src="https://img.shields.io/badge/javaScript-orange?style=flat&logo=javaScript&logoColor=9C4121"/>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
 
-### 🐱GitHub stats🐱 <br>
+## 🐱GitHub stats🐱 <br>
 ![soyeonprincess's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeonprincesss&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeonprincesss&layout=compact&theme=buefy)
 </div>
