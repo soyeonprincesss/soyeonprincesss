@@ -4,6 +4,7 @@
   
   # soyeonprincesss's Github🍀
 
+🐱Skill🐱
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
 <img src="https://img.shields.io/badge/javaScript-orange?style=flat&logo=javaScript&logoColor=9C4121"/>
