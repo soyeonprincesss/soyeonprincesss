@@ -4,8 +4,8 @@
   
   # soyeonprincesss's Github🍀
 
-### 🐱soyeonprincesss🐱
-박소연<br>
+## 🐱soyeonprincesss🐱
+# 박소연<br>
 2004.04.03<br>
 소명여자중학교 졸업<br>
 원미고등학교 졸업<br>
