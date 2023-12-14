@@ -14,5 +14,5 @@
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
 
-![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=soyeonprincesss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
-
+![KGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeonprincesss&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeonprincesss&layout=compact&theme=tokyonight)
