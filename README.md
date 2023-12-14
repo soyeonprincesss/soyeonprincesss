@@ -11,7 +11,8 @@
 동양미래대학교 인공지능소프트웨어학과 재학
 
 ## 🐱SNS🐱
-<a href="https://instagram.com/0_0__soyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_0__soyeon" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/0_0__soyeon/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://blog.naver.com/soyeon8165" target="_blank">
   <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 
