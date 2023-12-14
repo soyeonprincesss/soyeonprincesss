@@ -4,7 +4,7 @@
   
   # soyeonprincesss's Github🍀
 
-
+<a href="https://instagram.com/0_0__soyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_0__soyeon" height="30" width="40" /></a>
 
 ### 🐱studying🐱
 <p>
