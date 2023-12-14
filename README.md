@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=HTML5&logoColor=0B556A"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-navy?style=flat&logo=Visual Studio Code&logoColor=0075A8"/>  
 <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat&logo=Visual Studio&logoColor=8D73B0"/>  
-<img src="https://img.shields.io/badge/MySQL-pink?style=flat&logo=MySQL&logoColor=FF66AA"/>  
+<img src="https://img.shields.io/badge/MySQL-pink?style=flat&logo=MySQL&logoColor=D70F64"/>  
 </p>
