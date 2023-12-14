@@ -10,6 +10,10 @@
 소명여자중학교 졸업<br>
 원미고등학교 졸업<br>
 동양미래대학교 인공지능소프트웨어학과 재학
+
+### 🐱SNS🐱
+<a href="https://instagram.com/0_0__soyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_0__soyeon" height="30" width="40" /></a>
+
 ### 🐱studying🐱
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
