@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/C-green?style=flat&logo=C&logoColor=3B5526"/>
 <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=HTML5&logoColor=0B556A"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-navy?style=flat&logo=Visual Studio Code&logoColor=0075A8"/>  
-<img src="https://img.shields.io/badge/Visual Studio-purple?style=flat&logo=Visual Studio&logoColor=352A71"/>  
+<img src="https://img.shields.io/badge/Visual Studio-purple?style=flat&logo=Visual Studio&logoColor=8D73B0"/>  
 </p>
