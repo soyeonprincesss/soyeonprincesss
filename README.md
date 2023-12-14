@@ -4,7 +4,7 @@
   
   # soyeonprincesss's Github🍀
 
-🐱Skill🐱
+### 🐱Skill🐱
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
 <img src="https://img.shields.io/badge/javaScript-orange?style=flat&logo=javaScript&logoColor=9C4121"/>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=221E1F"/>  
 </p>
 
-### soyeonprincess's GitHub stats🐱 <br>
+### 🐱soyeonprincess's GitHub stats🐱 <br>
 ![soyeonprincess's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeonprincesss&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeonprincesss&layout=compact&theme=buefy)
 </div>
