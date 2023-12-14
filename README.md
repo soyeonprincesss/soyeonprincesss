@@ -9,5 +9,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-navy?style=flat&logo=Visual Studio Code&logoColor=0075A8"/>  
 <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat&logo=Visual Studio&logoColor=8D73B0"/>  
 <img src="https://img.shields.io/badge/MySQL-pink?style=flat&logo=MySQL&logoColor=D70F64"/>  
-<img src="https://img.shields.io/badge/PyCharm-lavender?style=flat&logo=PyCharm&logoColor=663399"/> 
+<img src="https://img.shields.io/badge/PyCharm-lavender?style=flat&logo=PyCharm&logoColor=663399"/>
+<img src="https://img.shields.io/badge/Anaconda-grey?style=flat&logo=Anaconda&logoColor=666666"/> 
 </p>
