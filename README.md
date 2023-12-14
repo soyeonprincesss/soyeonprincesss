@@ -4,6 +4,9 @@
   
   # soyeonprincesss's Github🍀
 
+
+![](https://velog.velcdn.com/images/hyejee0504/post/c057ac83-effb-4148-8edd-1eb62772b90a/image.png)
+
 ### 🐱studying🐱
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
