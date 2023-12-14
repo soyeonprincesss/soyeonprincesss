@@ -4,6 +4,12 @@
   
   # soyeonprincesss's Github🍀
 
+### 🐱soyeonprincesss🐱
+박소연
+2004.04.03
+소명여자중학교 졸업
+원미고등학교 졸업
+동양미래대학교 인공지능소프트웨어학과 재학
 ### 🐱studying🐱
 <p>
 <img src="https://img.shields.io/badge/python-red?style=flat&logo=python&logoColor=721412"/>
